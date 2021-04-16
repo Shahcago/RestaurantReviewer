@@ -1,7 +1,8 @@
 # Project: Restaurants Review System
 ## Author: Shahrukh Zarir
 
-## Description: Software System to facilitate restaurant reviews
+## Description: 
+Software System to facilitate restaurant reviews
 
 ## The system has two types of users:
 1. Reviewers: write reviews for restaurants, can have many reviews on many restaurants.
